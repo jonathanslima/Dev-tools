@@ -7,17 +7,17 @@
 
 #### Wordpress
 
-- Advanced Custom Fields
-- Contact form 7
-- Disqus
-- Instagram Slider Widget
-- No Category Base
-- Wp Pagenavi
-- Wp Smush It
-- Wordfence
+- [Advanced Custom Fields](https://www.advancedcustomfields.com/)
+- [Contact form 7](https://br.wordpress.org/plugins/contact-form-7/)
+- [Disqus](https://br.wordpress.org/plugins/disqus-comment-system/)
+- [Instagram Slider Widget](https://br.wordpress.org/plugins/instagram-slider-widget/)
+- [No Category Base](https://br.wordpress.org/plugins/no-category-base-wpml/)
+- [Wp Pagenavi](https://br.wordpress.org/plugins/wp-pagenavi/)
+- [Wp Smush It](https://br.wordpress.org/plugins/wp-smushit/)
+- [Wordfence](https://www.wordfence.com/)
 - [Algolia Search](https://www.algolia.com/)
-- WooCommerce
-- Mailgun
+- [WooCommerce](https://woocommerce.com/)
+- [Mailgun](https://br.wordpress.org/plugins/mailgun/)
 
 #### jQuery e Plugins JS
 
@@ -30,6 +30,7 @@
 - [IonRabgeSlider](http://ionden.com/a/plugins/ion.rangeSlider/en.html)
 - [Smartsupp](https://www.smartsupp.com/br/)
 - [Bootstrap Star Rating](https://github.com/kartik-v/bootstrap-star-rating)
+- [Isotope](https://isotope.metafizzy.co/)
 
 #### Outras ferramentas
 
